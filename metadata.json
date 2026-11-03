@@ -1,0 +1,6 @@
+{
+  "name": "Rock Danish Biker Stuff",
+  "description": "Shop biker gear, motorcycle accessories, riding jackets, helmets, gloves, boots and more from Rock Danish Biker Stuff in Karachi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
